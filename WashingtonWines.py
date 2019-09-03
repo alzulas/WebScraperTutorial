@@ -1,3 +1,14 @@
+#############################################
+#                                           #
+#       This code writen by A.L.Zulas       #
+#       Written in September 2019           #
+#       Code pulls data from Washington     #
+#           wines website and parses it     #
+#           into a useful format            #
+#                                           #
+#############################################
+
+
 from urllib.request import urlopen
 from urllib.error import HTTPError
 from bs4 import BeautifulSoup
@@ -5,6 +16,7 @@ import re
 import json
 import csv
 
+#this method a test of error handling when pulling from the website
 def getTitle(url):
     try:
         html = urlopen(url)
@@ -17,7 +29,7 @@ def getTitle(url):
         return None
     return title
 
-# create the csv writer object
+#this method parses the JSON data into a csv
 def writeToFile (all_wineries):
     # open a file for writing
     file_data = open('/Users/leahz/Documents/Developer/WebScraperTutorial/WebScraperTutorial/TestData.csv', 'w')
@@ -31,6 +43,25 @@ def writeToFile (all_wineries):
         csvwriter.writerow(winery.values())
     file_data.close()
 
+#This method parses out the wine types defined in the file, and returns only unique elements
+def getUniqueWineTypes(data):
+    wineTypes = []
+
+    for everything in data['data']:
+        for wine in everything['wines']:
+            wineTypes.append(wine['variety'])
+    print(wineTypes)
+
+    # insert the list to the set 
+    list_set = set(wineTypes) 
+    # convert the set to the list 
+    unique_list = (list(list_set))
+    unique_list.sort() 
+    for x in unique_list: 
+        print (x)
+    return(unique_list)
+
+
 
 html = urlopen('https://www.washingtonwine.org/api/queries/entities?getcount=true&types=Winery&getwines=true&getlogo=true&getregion=true&query=')
 
@@ -40,78 +71,10 @@ html = urlopen('https://www.washingtonwine.org/api/queries/entities?getcount=tru
 data = json.load(html)
 #print(json.dumps(data, indent = 4, sort_keys=True))
 #/Users/leahz/Documents/Developer/WebScraperTutorial/WebScraperTutorial
-wineTypes = []
 
-for everything in data['data']:
-#    print ("Next")
-#    print (everything)
-    for wine in everything['wines']:
-        #print (wine['variety'])
-        wineTypes.append(wine['variety'])
-        #for wineType in wine['variety']:
-            #print(str(wineType))
-        #   wineTypes.append(wineType)
-print(wineTypes)
-
-# insert the list to the set 
-list_set = set(wineTypes) 
-# convert the set to the list 
-unique_list = (list(list_set))
-unique_list.sort() 
-for x in unique_list: 
-    print (x)
-#print (wineType)
-#employee_parsed = json.loads(employee_data)
-
-#all_wineries = data['data']
-#better_dict = json.load(all_wineries)
-#print(html.read())
 
 
 
 
 #html = urlopen('https://www.washingtonwine.org/api/queries/entities/')
 #print(html.read())
-
-'''<div class="uk-flex uk-flex-middle uk-width-1-1 entity-header">
-      <figure class="entity-figure uk-flex uk-flex-center">
-        <img src="https://wswc-1290.kxcdn.com/_assets/a7386707f7143d5f583a4f4b3084fbe2/FTH Winery Logo Color (430pix).jpg?t=small-thumb">
-      </figure>
-      <div class="uk-flex uk-flex-column uk-width-1-1">
-        <h5>Prosser</h5>
-        <h3 class="alternate"><a href="https://www.washingtonwine.org/wineries/14-hands-winery/" class="js-send-to-detail">14 Hands Winery</a></h3>
-          <div class="uk-flex uk-flex-middle wines-toggle uk-accordion-title">
-            <i class="icon-simple_wine_glass"></i>
-            <h4 class="uk-margin-remove">14 wines</h4>
-            <i class="icon-accordion-arrow"></i>
-          </div>
-      </div>
-    </div>'''
-
-    #id="list-switcher"
-
-'''title = getTitle("https://www.washingtonwine.org/wineries")
-if title == None:
-    print("Title could not be found")
-else:
-    print(title.get_text())
-    profileUrl
-'''
-
-
-# links = bs.find_all('id':'profileUrl')
-# print(links)
-# for link in links: 
-#     print(link['href'])
-
-#\.\.\/img\/gifts/img.*\.jpg
-#print(bs.find('ul',{'id':'list-switcher'}).li.next_siblings)
-# ul class="js-list-content list-content uk-list uk-flex uk-flex-column uk-width-5-6"
-# class="uk-flex uk-flex-column entity uk-accordion uk-position-relative"
-
-#for child in bs.find('ul',{'id':'list-switcher'}).li.next_siblings:
-#    print(child)
-
-#nameList = bs.findAll(class_="uk-flex uk-flex-middle uk-width-1-1 entity-header").children
-#for name in nameList:
-#    print(name)
