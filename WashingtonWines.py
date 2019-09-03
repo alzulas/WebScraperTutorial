@@ -40,12 +40,32 @@ html = urlopen('https://www.washingtonwine.org/api/queries/entities?getcount=tru
 data = json.load(html)
 #print(json.dumps(data, indent = 4, sort_keys=True))
 #/Users/leahz/Documents/Developer/WebScraperTutorial/WebScraperTutorial
+wineTypes = []
 
+for everything in data['data']:
+#    print ("Next")
+#    print (everything)
+    for wine in everything['wines']:
+        #print (wine['variety'])
+        wineTypes.append(wine['variety'])
+        #for wineType in wine['variety']:
+            #print(str(wineType))
+        #   wineTypes.append(wineType)
+print(wineTypes)
 
+# insert the list to the set 
+list_set = set(wineTypes) 
+# convert the set to the list 
+unique_list = (list(list_set))
+unique_list.sort() 
+for x in unique_list: 
+    print (x)
+#print (wineType)
 #employee_parsed = json.loads(employee_data)
 
-all_wineries = data['data']
-
+#all_wineries = data['data']
+#better_dict = json.load(all_wineries)
+#print(html.read())
 
 
 
