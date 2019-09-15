@@ -1,3 +1,15 @@
+#####################################################################
+#                                                                   #
+#        This code writen by A. Leah Zulas                          #
+#        Using the tutorial from Web Scraping with Python           #
+#        You may use this code to retrieve information about        #
+#           shows from IMDB and create a spread sheet               #
+#        Please use this scraper carefully and don't overload       #
+#           IMDB servers too much.                                  #
+#        Thanks, enjoy!                                             #
+#                                                                   #
+##################################################################### 
+
 from urllib.request import urlopen
 from urllib.error import HTTPError
 from bs4 import BeautifulSoup
@@ -6,12 +18,8 @@ import json
 import csv
 
 
-#Example 1 All links on page
-
-
-
-
 '''
+In case I ever decide to put error catching in
 def getTitle(url):
     try:
         html = urlopen(url)
@@ -26,6 +34,7 @@ def getTitle(url):
 '''
 
 
+#Retreieve all of the seasons from the show and return a list of the seasons
 def getAllLinks(firstLink, allLinks):
     html = urlopen(firstLink)
     bs = BeautifulSoup(html, 'html.parser')
@@ -35,6 +44,7 @@ def getAllLinks(firstLink, allLinks):
             allLinks.append(link.attrs['href'])
     return(allLinks)
 
+#Retreieve and copy the episodes to a CSV
 def getDataPoints(allLinks, show, csvwriter):
     for link in allLinks:
         html = urlopen("https://www.imdb.com" + link)
@@ -43,61 +53,38 @@ def getDataPoints(allLinks, show, csvwriter):
         airdates = bs.find_all(class_='airdate')
         #print (strong_tag)
         for i in range(0, len(airdates)):
-            print("Show = " + show + ", Season = " + strong_tag[len(airdates)].text + ", Episode " + str(i+1) + " = " + strong_tag[i].text + ', ' + airdates[i].text[13:-5])
+            #print("Show = " + show + ", Season = " + strong_tag[len(airdates)].text + ", Episode " + str(i+1) + " = " + strong_tag[i].text + ', ' + airdates[i].text[13:-5])
             tmpRow = [show, strong_tag[len(airdates)].text, str(i+1), strong_tag[i].text, airdates[i].text[13:-5]]
             #print (tmpRow)
             csvwriter.writerow(tmpRow)
         #print("Season = " + strong_tag[len(airdates)].text + '\n')
 
+#Header entry intot eh csv and open it. 
 header = ['Show', 'Season', 'Episode Number', 'Episode Title', 'Airdate']
 file_data = open('/Users/leahz/Documents/Developer/WebScraperTutorial/WebScraperTutorial/allDCUniverseEpisodes.csv', 'w')
 csvwriter = csv.writer(file_data)
 csvwriter.writerow(header)
 print(header)
 
-
+#Super Girl
 allLinksSuperGirl = []
 allLinksSuperGirl = getAllLinks('https://www.imdb.com/title/tt4016454/', allLinksSuperGirl)
 getDataPoints(allLinksSuperGirl, 'Super Girl', csvwriter)
 
-
+#Arrow
 allLinksArrow = []
 allLinksArrow = getAllLinks('https://www.imdb.com/title/tt2193021/', allLinksArrow)
 getDataPoints(allLinksArrow, 'Arrow', csvwriter)
 
+#Legends of Tomorrow
 allLinksLegends = []
 allLinksLegends = getAllLinks('https://www.imdb.com/title/tt4532368/', allLinksLegends)
 getDataPoints(allLinksLegends, 'Legends of Tomorrow', csvwriter)
 
+#Flash
 allLinksFlash = []
 allLinksFlash = getAllLinks('https://www.imdb.com/title/tt3107288/', allLinksFlash)
 getDataPoints(allLinksFlash, 'Flash', csvwriter)
 
+#Close file
 file_data.close()
-
-
-
-            
-'''
-id="episodes_content"
-find('div', {'id':'bodyContent'}).find_all
-
-#for strong_tag in soup.find_all('strong'):
-#    print(strong_tag.text, strong_tag.next_sibling)
-
-
-#<a href="/title/tt4525842/?ref_=ttep_ep1" title="Pilot" itemprop="name">Pilot</a>
-
-#html = urlopen('https://www.washingtonwine.org/api/queries/entities/')
-#bs = BeautifulSoup(html.read(), "html5lib")
-
-#data = json.load(html)
-#print(json.dumps(data, indent = 4, sort_keys=True))
-#/Users/leahz/Documents/Developer/WebScraperTutorial/WebScraperTutorial
-
-#listOfWineNames = getUniqueWineTypes(data)
-#print (listOfWineNames)
-
-#writeToFile(data, listOfWineNames)
-
-'''
