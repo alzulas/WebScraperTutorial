@@ -1,0 +1,494 @@
+Show,Season,Episode Number,Episode Title,Airdate
+Arrow,Season 1,1,Pilot,10/10/12
+Arrow,Season 1,2,Honor Thy Father,10/17/12
+Arrow,Season 1,3,Lone Gunmen,10/24/12
+Arrow,Season 1,4,An Innocent Man,10/31/12
+Arrow,Season 1,5,Damaged,11/7/12
+Arrow,Season 1,6,Legacies,11/14/12
+Arrow,Season 1,7,Muse of Fire,11/28/12
+Arrow,Season 1,8,Vendetta,12/5/12
+Arrow,Season 1,9,Year's End,12/12/12
+Arrow,Season 1,10,Burned,1/16/13
+Arrow,Season 1,11,Trust But Verify,1/23/13
+Arrow,Season 1,12,Vertigo,1/30/13
+Arrow,Season 1,13,Betrayal,2/6/13
+Arrow,Season 1,14,The Odyssey,2/13/13
+Arrow,Season 1,15,Dodger,2/20/13
+Arrow,Season 1,16,Dead to Rights,2/27/13
+Arrow,Season 1,17,The Huntress Returns,3/20/13
+Arrow,Season 1,18,Salvation,3/27/13
+Arrow,Season 1,19,Unfinished Business,4/3/13
+Arrow,Season 1,20,Home Invasion,4/24/13
+Arrow,Season 1,21,The Undertaking,5/1/13
+Arrow,Season 1,22,Darkness on the Edge of Town,5/8/13
+Arrow,Season 1,23,Sacrifice,5/15/13
+Arrow,Season 2,1,City of Heroes,10/9/13
+Arrow,Season 2,2,Identity,10/16/13
+Arrow,Season 2,3,Broken Dolls,10/23/13
+Arrow,Season 2,4,Crucible,10/30/13
+Arrow,Season 2,5,League of Assassins,11/6/13
+Arrow,Season 2,6,Keep Your Enemies Closer,11/13/13
+Arrow,Season 2,7,State v. Queen,11/20/13
+Arrow,Season 2,8,The Scientist,12/4/13
+Arrow,Season 2,9,Three Ghosts,12/11/13
+Arrow,Season 2,10,Blast Radius,1/15/14
+Arrow,Season 2,11,Blind Spot,1/22/14
+Arrow,Season 2,12,Tremors,1/29/14
+Arrow,Season 2,13,Heir to the Demon,2/5/14
+Arrow,Season 2,14,Time of Death,2/26/14
+Arrow,Season 2,15,The Promise,3/5/14
+Arrow,Season 2,16,Suicide Squad,3/19/14
+Arrow,Season 2,17,Birds of Prey,3/26/14
+Arrow,Season 2,18,Deathstroke,4/2/14
+Arrow,Season 2,19,The Man Under the Hood,4/16/14
+Arrow,Season 2,20,Seeing Red,4/23/14
+Arrow,Season 2,21,City of Blood,4/30/14
+Arrow,Season 2,22,Streets of Fire,5/7/14
+Arrow,Season 2,23,Unthinkable,5/14/14
+Flash,Season 1,1,Pilot,10/7/14
+Arrow,Season 3,1,The Calm,10/8/14
+Flash,Season 1,2,Fastest Man Alive,10/14/14
+Arrow,Season 3,2,Sara,10/15/14
+Flash,Season 1,3,Things You Can't Outrun,10/21/14
+Arrow,Season 3,3,Corto Maltese,10/22/14
+Flash,Season 1,4,Going Rogue,10/28/14
+Arrow,Season 3,4,The Magician,10/29/14
+Arrow,Season 3,5,The Secret Origin of Felicity Smoak,11/5/14
+Flash,Season 1,5,Plastique,11/11/14
+Arrow,Season 3,6,Guilty,11/12/14
+Flash,Season 1,6,The Flash Is Born,11/18/14
+Arrow,Season 3,7,Draw Back Your Bow,11/19/14
+Flash,Season 1,7,Power Outage,11/25/14
+Flash,Season 1,8,Flash vs. Arrow,12/2/14
+Arrow,Season 3,8,The Brave and the Bold,12/3/14
+Flash,Season 1,9,The Man in the Yellow Suit,12/9/14
+Arrow,Season 3,9,The Climb,12/10/14
+Flash,Season 1,10,Revenge of the Rogues,1/20/15
+Arrow,Season 3,10,Left Behind,1/21/15
+Flash,Season 1,11,The Sound and the Fury,1/27/15
+Arrow,Season 3,11,Midnight City,1/28/15
+Flash,Season 1,12,Crazy for You,2/3/15
+Arrow,Season 3,12,Uprising,2/4/15
+Flash,Season 1,13,The Nuclear Man,2/10/15
+Arrow,Season 3,13,Canaries,2/11/15
+Flash,Season 1,14,Fallout,2/17/15
+Arrow,Season 3,14,The Return,2/18/15
+Arrow,Season 3,15,Nanda Parbat,2/25/15
+Flash,Season 1,15,Out of Time,3/17/15
+Arrow,Season 3,16,The Offer,3/18/15
+Flash,Season 1,16,Rogue Time,3/24/15
+Arrow,Season 3,17,Suicidal Tendencies,3/25/15
+Flash,Season 1,17,Tricksters,3/31/15
+Arrow,Season 3,18,Public Enemy,4/1/15
+Flash,Season 1,18,All Star Team Up,4/14/15
+Arrow,Season 3,19,Broken Arrow,4/15/15
+Flash,Season 1,19,Who Is Harrison Wells?,4/21/15
+Arrow,Season 3,20,The Fallen,4/22/15
+Flash,Season 1,20,The Trap,4/28/15
+Arrow,Season 3,21,Al Sah-Him,4/29/15
+Flash,Season 1,21,Grodd Lives,5/5/15
+Arrow,Season 3,22,This Is Your Sword,5/6/15
+Flash,Season 1,22,Rogue Air,5/12/15
+Arrow,Season 3,23,My Name Is Oliver Queen,5/13/15
+Flash,Season 1,23,Fast Enough,5/19/15
+Flash,Season 2,1,The Man Who Saved Central City,10/6/15
+Arrow,Season 4,1,Green Arrow,10/7/15
+Flash,Season 2,2,Flash of Two Worlds,10/13/15
+Arrow,Season 4,2,The Candidate,10/14/15
+Flash,Season 2,3,Family of Rogues,10/20/15
+Arrow,Season 4,3,Restoration,10/21/15
+Super Girl,Season 1,1,Pilot,10/26/15
+Flash,Season 2,4,The Fury of Firestorm,10/27/15
+Arrow,Season 4,4,Beyond Redemption,10/28/15
+Super Girl,Season 1,2,Stronger Together,11/2/15
+Flash,Season 2,5,The Darkness and the Light,11/3/15
+Arrow,Season 4,5,Haunted,11/4/15
+Super Girl,Season 1,3,Fight or Flight,11/9/15
+Flash,Season 2,6,Enter Zoom,11/10/15
+Arrow,Season 4,6,Lost Souls,11/11/15
+Super Girl,Season 1,4,Livewire,11/16/15
+Flash,Season 2,7,Gorilla Warfare,11/17/15
+Arrow,Season 4,7,Brotherhood,11/18/15
+Super Girl,Season 1,5,How Does She Do It?,11/23/15
+Super Girl,Season 1,6,Red Faced,11/30/15
+Flash,Season 2,8,Legends of Today,12/1/15
+Arrow,Season 4,8,Legends of Yesterday,12/2/15
+Super Girl,Season 1,7,Human for a Day,12/7/15
+Flash,Season 2,9,Running to Stand Still,12/8/15
+Arrow,Season 4,9,Dark Waters,12/9/15
+Super Girl,Season 1,8,Hostile Takeover,12/14/15
+Super Girl,Season 1,9,Blood Bonds,1/4/16
+Super Girl,Season 1,10,Childish Things,1/18/16
+Flash,Season 2,10,Potential Energy,1/19/16
+Arrow,Season 4,10,Blood Debts,1/20/16
+Legends of Tomorrow,Season 1,1,"Pilot, Part 1",1/21/16
+Super Girl,Season 1,11,Strange Visitor from Another Planet,1/25/16
+Flash,Season 2,11,The Reverse-Flash Returns,1/26/16
+Arrow,Season 4,11,A.W.O.L.,1/27/16
+Legends of Tomorrow,Season 1,2,"Pilot, Part 2",1/28/16
+Super Girl,Season 1,12,Bizarro,2/1/16
+Flash,Season 2,12,Fast Lane,2/2/16
+Arrow,Season 4,12,Unchained,2/3/16
+Legends of Tomorrow,Season 1,3,Blood Ties,2/4/16
+Super Girl,Season 1,13,For the Girl Who Has Everything,2/8/16
+Flash,Season 2,13,Welcome to Earth-2,2/9/16
+Arrow,Season 4,13,Sins of the Father,2/10/16
+Legends of Tomorrow,Season 1,4,White Knights,2/11/16
+Flash,Season 2,14,Escape from Earth-2,2/16/16
+Arrow,Season 4,14,Code of Silence,2/17/16
+Legends of Tomorrow,Season 1,5,Fail-Safe,2/18/16
+Super Girl,Season 1,14,"Truth, Justice and the American Way",2/22/16
+Flash,Season 2,15,King Shark,2/23/16
+Arrow,Season 4,15,Taken,2/24/16
+Legends of Tomorrow,Season 1,6,Star City 2046,2/25/16
+Super Girl,Season 1,15,Solitude,2/29/16
+Legends of Tomorrow,Season 1,7,Marooned,3/3/16
+Legends of Tomorrow,Season 1,8,Night of the Hawk,3/10/16
+Super Girl,Season 1,16,Falling,3/14/16
+Super Girl,Season 1,17,Manhunter,3/21/16
+Flash,Season 2,16,Trajectory,3/22/16
+Arrow,Season 4,16,Broken Hearts,3/23/16
+Super Girl,Season 1,18,Worlds Finest,3/28/16
+Flash,Season 2,17,Flash Back,3/29/16
+Arrow,Season 4,17,Beacon of Hope,3/30/16
+Legends of Tomorrow,Season 1,9,Left Behind,3/31/16
+Arrow,Season 4,18,Eleven-Fifty-Nine,4/6/16
+Legends of Tomorrow,Season 1,10,Progeny,4/7/16
+Super Girl,Season 1,19,Myriad,4/11/16
+Legends of Tomorrow,Season 1,11,The Magnificent Eight,4/14/16
+Super Girl,Season 1,20,Better Angels,4/18/16
+Flash,Season 2,18,Versus Zoom,4/19/16
+Legends of Tomorrow,Season 1,12,Last Refuge,4/21/16
+Flash,Season 2,19,Back to Normal,4/26/16
+Arrow,Season 4,19,Canary Cry,4/27/16
+Legends of Tomorrow,Season 1,13,Leviathan,4/28/16
+Flash,Season 2,20,Rupture,5/3/16
+Arrow,Season 4,20,Genesis,5/4/16
+Legends of Tomorrow,Season 1,14,River of Time,5/5/16
+Flash,Season 2,21,The Runaway Dinosaur,5/10/16
+Arrow,Season 4,21,Monument Point,5/11/16
+Legends of Tomorrow,Season 1,15,Destiny,5/12/16
+Flash,Season 2,22,Invincible,5/17/16
+Arrow,Season 4,22,Lost in the Flood,5/18/16
+Legends of Tomorrow,Season 1,16,Legendary,5/19/16
+Flash,Season 2,23,The Race of His Life,5/24/16
+Arrow,Season 4,23,Schism,5/25/16
+Flash,Season 3,1,Flashpoint,10/4/16
+Arrow,Season 5,1,Legacy,10/5/16
+Super Girl,Season 2,1,The Adventures of Supergirl,10/10/16
+Flash,Season 3,2,Paradox,10/11/16
+Arrow,Season 5,2,The Recruits,10/12/16
+Legends of Tomorrow,Season 2,1,Out of Time,10/13/16
+Super Girl,Season 2,2,The Last Children of Krypton,10/17/16
+Flash,Season 3,3,Magenta,10/18/16
+Arrow,Season 5,3,A Matter of Trust,10/19/16
+Legends of Tomorrow,Season 2,2,The Justice Society of America,10/20/16
+Super Girl,Season 2,3,Welcome to Earth,10/24/16
+Flash,Season 3,4,The New Rogues,10/25/16
+Arrow,Season 5,4,Penance,10/26/16
+Legends of Tomorrow,Season 2,3,Shogun,10/27/16
+Super Girl,Season 2,4,Survivors,10/31/16
+Flash,Season 3,5,Monster,11/1/16
+Arrow,Season 5,5,Human Target,11/2/16
+Legends of Tomorrow,Season 2,4,Abominations,11/3/16
+Super Girl,Season 2,5,Crossfire,11/7/16
+Arrow,Season 5,6,So It Begins,11/9/16
+Legends of Tomorrow,Season 2,5,Compromised,11/10/16
+Super Girl,Season 2,6,Changing,11/14/16
+Flash,Season 3,6,Shade,11/15/16
+Arrow,Season 5,7,Vigilante,11/16/16
+Legends of Tomorrow,Season 2,6,Outlaw Country,11/17/16
+Super Girl,Season 2,7,The Darkest Place,11/21/16
+Flash,Season 3,7,Killer Frost,11/22/16
+Super Girl,Season 2,8,Medusa,11/28/16
+Flash,Season 3,8,Invasion!,11/29/16
+Arrow,Season 5,8,Invasion!,11/30/16
+Legends of Tomorrow,Season 2,7,Invasion!,12/1/16
+Flash,Season 3,9,The Present,12/6/16
+Arrow,Season 5,9,What We Leave Behind,12/7/16
+Legends of Tomorrow,Season 2,8,The Chicago Way,12/8/16
+Super Girl,Season 2,9,Supergirl Lives,1/23/17
+Legends of Tomorrow,Season 2,9,Raiders of the Lost Art,1/24/17
+Flash,Season 3,10,Borrowing Problems from the Future,1/24/17
+Arrow,Season 5,10,Who Are You?,1/25/17
+Super Girl,Season 2,10,We Can Be Heroes,1/30/17
+Legends of Tomorrow,Season 2,10,The Legion of Doom,1/31/17
+Flash,Season 3,11,Dead or Alive,1/31/17
+Arrow,Season 5,11,Second Chances,2/1/17
+Super Girl,Season 2,11,The Martian Chronicles,2/6/17
+Legends of Tomorrow,Season 2,11,Turncoat,2/7/17
+Flash,Season 3,12,Untouchable,2/7/17
+Arrow,Season 5,12,Bratva,2/8/17
+Super Girl,Season 2,12,Luthors,2/13/17
+Arrow,Season 5,13,Spectre of the Gun,2/15/17
+Super Girl,Season 2,13,Mr. & Mrs. Mxyzptlk,2/20/17
+Legends of Tomorrow,Season 2,12,Camelot/3000,2/21/17
+Flash,Season 3,13,Attack on Gorilla City,2/21/17
+Arrow,Season 5,14,The Sin-Eater,2/22/17
+Super Girl,Season 2,14,Homecoming,2/27/17
+Flash,Season 3,14,Attack on Central City,2/28/17
+Arrow,Season 5,15,Fighting Fire with Fire,3/1/17
+Super Girl,Season 2,15,Exodus,3/6/17
+Legends of Tomorrow,Season 2,13,Land of the Lost,3/7/17
+Flash,Season 3,15,The Wrath of Savitar,3/7/17
+Legends of Tomorrow,Season 2,14,Moonshot,3/14/17
+Flash,Season 3,16,Into the Speed Force,3/14/17
+Arrow,Season 5,16,Checkmate,3/15/17
+Super Girl,Season 2,16,Star-Crossed,3/20/17
+Legends of Tomorrow,Season 2,15,Fellowship of the Spear,3/21/17
+Flash,Season 3,17,Duet,3/21/17
+Arrow,Season 5,17,Kapiushon,3/22/17
+Super Girl,Season 2,17,Distant Sun,3/27/17
+Legends of Tomorrow,Season 2,16,Doomworld,3/28/17
+Flash,Season 3,18,Abra Kadabra,3/28/17
+Arrow,Season 5,18,Disbanded,3/29/17
+Legends of Tomorrow,Season 2,17,Aruba,4/4/17
+Super Girl,Season 2,18,Ace Reporter,4/24/17
+Flash,Season 3,19,The Once and Future Flash,4/25/17
+Arrow,Season 5,19,Dangerous Liaisons,4/26/17
+Super Girl,Season 2,19,Alex,5/1/17
+Flash,Season 3,20,I Know Who You Are,5/2/17
+Arrow,Season 5,20,Underneath,5/3/17
+Super Girl,Season 2,20,City of Lost Children,5/8/17
+Flash,Season 3,21,Cause and Effect,5/9/17
+Arrow,Season 5,21,Honor Thy Fathers,5/10/17
+Super Girl,Season 2,21,Resist,5/15/17
+Flash,Season 3,22,Infantino Street,5/16/17
+Arrow,Season 5,22,Missing,5/17/17
+Super Girl,Season 2,22,"Nevertheless, She Persisted",5/22/17
+Flash,Season 3,23,Finish Line,5/23/17
+Arrow,Season 5,23,Lian Yu,5/24/17
+Super Girl,Season 3,1,Girl of Steel,10/9/17
+Legends of Tomorrow,Season 3,1,Aruba-Con,10/10/17
+Flash,Season 4,1,The Flash Reborn,10/10/17
+Arrow,Season 6,1,Fallout,10/12/17
+Super Girl,Season 3,2,Triggers,10/16/17
+Legends of Tomorrow,Season 3,2,Freakshow,10/17/17
+Flash,Season 4,2,Mixed Signals,10/17/17
+Arrow,Season 6,2,Tribute,10/19/17
+Super Girl,Season 3,3,Far from the Tree,10/23/17
+Legends of Tomorrow,Season 3,3,Zari,10/24/17
+Flash,Season 4,3,Luck Be a Lady,10/24/17
+Arrow,Season 6,3,Next of Kin,10/26/17
+Super Girl,Season 3,4,The Faithful,10/30/17
+Legends of Tomorrow,Season 3,4,Phone Home,10/31/17
+Flash,Season 4,4,Elongated Journey Into Night,10/31/17
+Arrow,Season 6,4,Reversal,11/2/17
+Super Girl,Season 3,5,Damage,11/6/17
+Legends of Tomorrow,Season 3,5,Return of the Mack,11/7/17
+Flash,Season 4,5,Girls Night Out,11/7/17
+Arrow,Season 6,5,Deathstroke Returns,11/9/17
+Super Girl,Season 3,6,Midvale,11/13/17
+Legends of Tomorrow,Season 3,6,Helen Hunt,11/14/17
+Flash,Season 4,6,When Harry Met Harry...,11/14/17
+Arrow,Season 6,6,Promises Kept,11/16/17
+Super Girl,Season 3,7,Wake Up,11/20/17
+Legends of Tomorrow,Season 3,7,Welcome to the Jungle,11/21/17
+Flash,Season 4,7,Therefore I Am,11/21/17
+Arrow,Season 6,7,Thanksgiving,11/23/17
+Super Girl,Season 3,8,"Crisis on Earth-X, Part 1",11/27/17
+Arrow,Season 6,8,"Crisis on Earth-X, Part 2",11/27/17
+Legends of Tomorrow,Season 3,8,"Crisis on Earth-X, Part 4",11/28/17
+Flash,Season 4,8,"Crisis on Earth-X, Part 3",11/28/17
+Super Girl,Season 3,9,Reign,12/4/17
+Legends of Tomorrow,Season 3,9,Beebo the God of War,12/5/17
+Flash,Season 4,9,Don't Run,12/5/17
+Arrow,Season 6,9,Irreconcilable Differences,12/7/17
+Super Girl,Season 3,10,Legion of Super-Heroes,1/15/18
+Flash,Season 4,10,The Trial of The Flash,1/16/18
+Arrow,Season 6,10,Divided,1/18/18
+Super Girl,Season 3,11,Fort Rozz,1/22/18
+Flash,Season 4,11,The Elongated Knight Rises,1/23/18
+Arrow,Season 6,11,We Fall,1/25/18
+Super Girl,Season 3,12,For Good,1/29/18
+Flash,Season 4,12,"Honey, I Shrunk Team Flash",1/30/18
+Arrow,Season 6,12,All for Nothing,2/1/18
+Super Girl,Season 3,13,Both Sides Now,2/5/18
+Flash,Season 4,13,True Colors,2/6/18
+Arrow,Season 6,13,The Devil's Greatest Trick,2/8/18
+Legends of Tomorrow,Season 3,10,Daddy Darhkest,2/12/18
+Legends of Tomorrow,Season 3,11,Here I Go Again,2/19/18
+Legends of Tomorrow,Season 3,12,The Curse of the Earth Totem,2/26/18
+Flash,Season 4,14,Subject 9,2/27/18
+Arrow,Season 6,14,Collision Course,3/1/18
+Legends of Tomorrow,Season 3,13,No Country for Old Dads,3/5/18
+Flash,Season 4,15,Enter Flashtime,3/6/18
+Arrow,Season 6,15,Doppelgänger,3/8/18
+Legends of Tomorrow,Season 3,14,Amazing Grace,3/12/18
+Flash,Season 4,16,"Run, Iris, Run",3/13/18
+Legends of Tomorrow,Season 3,15,Necromancing the Stone,3/19/18
+Legends of Tomorrow,Season 3,16,"I, Ava",3/26/18
+Arrow,Season 6,16,The Thanatos Guild,3/29/18
+Legends of Tomorrow,Season 3,17,Guest Starring John Noble,4/2/18
+Arrow,Season 6,17,Brothers in Arms,4/5/18
+Legends of Tomorrow,Season 3,18,"The Good, the Bad and the Cuddly",4/9/18
+Flash,Season 4,17,Null and Annoyed,4/10/18
+Arrow,Season 6,18,Fundamentals,4/12/18
+Super Girl,Season 3,14,Schott Through the Heart,4/16/18
+Flash,Season 4,18,Lose Yourself,4/17/18
+Arrow,Season 6,19,The Dragon,4/19/18
+Super Girl,Season 3,15,In Search of Lost Time,4/23/18
+Flash,Season 4,19,Fury Rogue,4/24/18
+Arrow,Season 6,20,Shifting Allegiances,4/26/18
+Super Girl,Season 3,16,Of Two Minds,4/30/18
+Flash,Season 4,20,Therefore She Is,5/1/18
+Arrow,Season 6,21,Docket No. 11-19-41-73,5/3/18
+Super Girl,Season 3,17,Trinity,5/7/18
+Flash,Season 4,21,Harry and the Harrisons,5/8/18
+Arrow,Season 6,22,The Ties That Bind,5/10/18
+Super Girl,Season 3,18,Shelter from the Storm,5/14/18
+Flash,Season 4,22,Think Fast,5/15/18
+Arrow,Season 6,23,Life Sentence,5/17/18
+Super Girl,Season 3,19,The Fanatical,5/21/18
+Flash,Season 4,23,We Are the Flash,5/22/18
+Super Girl,Season 3,20,Dark Side of the Moon,5/28/18
+Super Girl,Season 3,21,Not Kansas,6/4/18
+Super Girl,Season 3,22,Make It Reign,6/11/18
+Super Girl,Season 3,23,Battles Lost and Won,6/18/18
+Flash,Season 5,1,Nora,10/9/18
+Super Girl,Season 4,1,American Alien,10/14/18
+Arrow,Season 7,1,Inmate 4587,10/15/18
+Flash,Season 5,2,Blocked,10/16/18
+Super Girl,Season 4,2,Fallout,10/21/18
+Arrow,Season 7,2,The Longbow Hunters,10/22/18
+Legends of Tomorrow,Season 4,1,The Virgin Gary,10/22/18
+Flash,Season 5,3,The Death of Vibe,10/23/18
+Super Girl,Season 4,3,Man of Steel,10/28/18
+Arrow,Season 7,3,Crossing Lines,10/29/18
+Legends of Tomorrow,Season 4,2,Witch Hunt,10/29/18
+Flash,Season 5,4,News Flash,10/30/18
+Super Girl,Season 4,4,Ahimsa,11/4/18
+Arrow,Season 7,4,Level Two,11/5/18
+Legends of Tomorrow,Season 4,3,Dancing Queen,11/5/18
+Super Girl,Season 4,5,Parasite Lost,11/11/18
+Arrow,Season 7,5,The Demon,11/12/18
+Legends of Tomorrow,Season 4,4,Wet Hot American Bummer,11/12/18
+Flash,Season 5,5,All Doll'd Up,11/13/18
+Super Girl,Season 4,6,Call to Action,11/18/18
+Arrow,Season 7,6,Due Process,11/19/18
+Legends of Tomorrow,Season 4,5,Tagumo Attacks!!!,11/19/18
+Flash,Season 5,6,The Icicle Cometh,11/20/18
+Super Girl,Season 4,7,Rather the Fallen Angel,11/25/18
+Arrow,Season 7,7,The Slabside Redemption,11/26/18
+Legends of Tomorrow,Season 4,6,Tender Is the Nate,11/26/18
+Flash,Season 5,7,"O Come, All Ye Thankful",11/27/18
+Super Girl,Season 4,8,Bunker Hill,12/2/18
+Arrow,Season 7,8,Unmasked,12/3/18
+Legends of Tomorrow,Season 4,7,"Hell No, Dolly!",12/3/18
+Flash,Season 5,8,What's Past Is Prologue,12/4/18
+Flash,Season 5,9,"Elseworlds, Part 1",12/9/18
+Arrow,Season 7,9,"Elseworlds, Part 2",12/10/18
+Legends of Tomorrow,Season 4,8,Legends of To-Meow-Meow,12/10/18
+Super Girl,Season 4,9,"Elseworlds, Part 3",12/11/18
+Flash,Season 5,10,The Flash & the Furious,1/15/19
+Super Girl,Season 4,10,Suspicious Minds,1/20/19
+Arrow,Season 7,10,My Name Is Emiko Queen,1/21/19
+Flash,Season 5,11,Seeing Red,1/22/19
+Super Girl,Season 4,11,Blood Memory,1/27/19
+Arrow,Season 7,11,Past Sins,1/28/19
+Flash,Season 5,12,Memorabilia,1/29/19
+Arrow,Season 7,12,Emerald Archer,2/4/19
+Flash,Season 5,13,Goldfaced,2/5/19
+Arrow,Season 7,13,Star City Slayer,2/11/19
+Flash,Season 5,14,Cause and XS,2/12/19
+Super Girl,Season 4,12,Menagerie,2/17/19
+Super Girl,Season 4,13,"What's So Funny About Truth, Justice, and the American Way?",3/3/19
+Arrow,Season 7,14,Brothers & Sisters,3/4/19
+Flash,Season 5,15,King Shark vs. Gorilla Grodd,3/5/19
+Super Girl,Season 4,14,Stand and Deliver,3/10/19
+Arrow,Season 7,15,Training Day,3/11/19
+Flash,Season 5,16,Failure Is an Orphan,3/12/19
+Super Girl,Season 4,15,"O Brother, Where Art Thou?",3/17/19
+Arrow,Season 7,16,Star City 2040,3/18/19
+Flash,Season 5,17,Time Bomb,3/19/19
+Super Girl,Season 4,16,The House of L,3/24/19
+Arrow,Season 7,17,Inheritance,3/25/19
+Super Girl,Season 4,17,All About Eve,3/31/19
+Legends of Tomorrow,Season 4,9,Lucha de Apuestas,4/1/19
+Legends of Tomorrow,Season 4,10,The Getaway,4/8/19
+Arrow,Season 7,18,Lost Canary,4/15/19
+Legends of Tomorrow,Season 4,11,Séance and Sensibility,4/15/19
+Flash,Season 5,18,Godspeed,4/16/19
+Super Girl,Season 4,18,Crime and Punishment,4/21/19
+Arrow,Season 7,19,Spartan,4/22/19
+Legends of Tomorrow,Season 4,12,"The Eggplant, the Witch & the Wardrobe",4/22/19
+Flash,Season 5,19,Snow Pack,4/23/19
+Super Girl,Season 4,19,American Dreamer,4/28/19
+Arrow,Season 7,20,Confessions,4/29/19
+Legends of Tomorrow,Season 4,13,Egg MacGuffin,4/29/19
+Flash,Season 5,20,Gone Rogue,4/30/19
+Super Girl,Season 4,20,Will the Real Miss Tessmacher Please Stand Up?,5/5/19
+Arrow,Season 7,21,Living Proof,5/6/19
+Legends of Tomorrow,Season 4,14,Nip/Stuck,5/6/19
+Flash,Season 5,21,The Girl with the Red Lightning,5/7/19
+Super Girl,Season 4,21,Red Dawn,5/12/19
+Arrow,Season 7,22,You Have Saved This City,5/13/19
+Legends of Tomorrow,Season 4,15,Terms of Service,5/13/19
+Flash,Season 5,22,Legacy,5/14/19
+Super Girl,Season 4,22,The Quest for Peace,5/19/19
+Legends of Tomorrow,Season 4,16,"Hey, World!",5/20/19
+Super Girl,Season 5,17,Episode #5.17,7/12/19
+Legends of Tomorrow,Season 5,5,Episode #5.5,7/12/19
+Super Girl,Season 5,1,Event Horizon,10/6/19
+Flash,Season 6,1,Into the Void,10/8/19
+Super Girl,Season 5,2,Episode #5.2,10/13/19
+Arrow,Season 8,1,Starling City,10/15/19
+Flash,Season 6,2,A Flash of Lightning,10/15/19
+Super Girl,Season 5,3,Blurred Lines,10/20/19
+Arrow,Season 8,2,Welcome to Hong Kong,10/22/19
+Flash,Season 6,3,Dead Man Running,10/22/19
+Super Girl,Season 5,4,Episode #5.4,10/27/19
+Arrow,Season 8,3,Leap of Faith,10/29/19
+Flash,Season 6,4,There Will Be Blood,10/29/19
+Super Girl,Season 5,5,Episode #5.5,11/3/19
+Arrow,Season 8,4,Present Tense,11/5/19
+Flash,Season 6,5,Episode #6.5,11/5/19
+Super Girl,Season 5,6,Episode #5.6,11/10/19
+Arrow,Season 8,5,Prochnost,11/12/19
+Flash,Season 6,6,Episode #6.6,11/12/19
+Super Girl,Season 5,7,Episode #5.7,11/17/19
+Arrow,Season 8,6,Episode #8.6,11/19/19
+Flash,Season 6,7,Episode #6.7,11/19/19
+Super Girl,Season 5,8,Episode #5.8,11/24/19
+Arrow,Season 8,7,Episode #8.7,11/26/19
+Super Girl,Season 5,9,"Crisis on Infinite Earths, Part 1",12/8/19
+Flash,Season 6,9,"Crisis on Infinite Earths, Part 3",12/10/19
+Arrow,Season 8,10,Episode #8.10,12/17/19
+Legends of Tomorrow,Season 5,1,Meet the Legends,1/1/20
+Legends of Tomorrow,Season 5,2,Episode #5.2,1/1/20
+Arrow,Season 8,8,"Crisis on Infinite Earths, Part 4",1/14/20
+Legends of Tomorrow,Season 5,9,Crisis on Infinite Earths,1/14/20
+Arrow,Season 8,9,Episode #8.9,1/21/20
+Super Girl,Season 5,10,Episode #5.10,
+Super Girl,Season 5,11,Episode #5.11,
+Super Girl,Season 5,12,Episode #5.12,
+Super Girl,Season 5,13,Episode #5.13,
+Super Girl,Season 5,14,Episode #5.14,
+Super Girl,Season 5,15,Episode #5.15,
+Super Girl,Season 5,16,Episode #5.16,
+Super Girl,Season 5,18,Episode #5.18,
+Super Girl,Season 5,19,Episode #5.19,
+Super Girl,Season 5,20,Episode #5.20,
+Super Girl,Season 5,21,Episode #5.21,
+Super Girl,Season 5,22,Episode #5.22,
+Legends of Tomorrow,Season 5,3,Episode #5.3,
+Legends of Tomorrow,Season 5,4,Episode #5.4,
+Legends of Tomorrow,Season 5,6,Episode #5.6,
+Legends of Tomorrow,Season 5,7,Episode #5.7,
+Legends of Tomorrow,Season 5,8,Episode #5.8,
+Legends of Tomorrow,Season 5,10,Episode #5.10,
+Flash,Season 6,8,Episode #6.8,
+Flash,Season 6,10,Episode #6.10,
+Flash,Season 6,11,Episode #6.11,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
