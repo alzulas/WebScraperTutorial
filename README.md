@@ -13,3 +13,5 @@ Happy hunting!
 # DC Universe Episodes sorted by airdate. 
 
 Using what I've learned from the book, I scraped out the DC Universe shows - Super Girl, Arrow, Legends of Tomorrow, and Flash, and copied the episode names and airdates. I then sorted them by airdate. Now, if anyone would like to watch them by airdate, there's a good list. :) Enjoy!
+
+I'll try to make sure to update them once a year after the seasons are over. You could also just download the code and run it if you'd like. 
