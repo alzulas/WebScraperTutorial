@@ -4,6 +4,7 @@
 #        Using the tutorial from Web Scraping with Python           #
 #        You may use this code to retrieve information about        #
 #           shows from IMDB and create a spread sheet               #
+#        I then sorted using Excel, because it was simple           #
 #        Please use this scraper carefully and don't overload       #
 #           IMDB servers too much.                                  #
 #        Thanks, enjoy!                                             #
